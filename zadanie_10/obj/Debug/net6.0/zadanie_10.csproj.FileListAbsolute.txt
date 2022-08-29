@@ -1,0 +1,15 @@
+C:\Users\Ynef4\Desktop\Оучение\Знакомство с языками програмированием\dz-Seminar 2\zadanie_10\bin\Debug\net6.0\zadanie_10.exe
+C:\Users\Ynef4\Desktop\Оучение\Знакомство с языками програмированием\dz-Seminar 2\zadanie_10\bin\Debug\net6.0\zadanie_10.deps.json
+C:\Users\Ynef4\Desktop\Оучение\Знакомство с языками програмированием\dz-Seminar 2\zadanie_10\bin\Debug\net6.0\zadanie_10.runtimeconfig.json
+C:\Users\Ynef4\Desktop\Оучение\Знакомство с языками програмированием\dz-Seminar 2\zadanie_10\bin\Debug\net6.0\zadanie_10.dll
+C:\Users\Ynef4\Desktop\Оучение\Знакомство с языками програмированием\dz-Seminar 2\zadanie_10\bin\Debug\net6.0\zadanie_10.pdb
+C:\Users\Ynef4\Desktop\Оучение\Знакомство с языками програмированием\dz-Seminar 2\zadanie_10\obj\Debug\net6.0\zadanie_10.csproj.AssemblyReference.cache
+C:\Users\Ynef4\Desktop\Оучение\Знакомство с языками програмированием\dz-Seminar 2\zadanie_10\obj\Debug\net6.0\zadanie_10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ynef4\Desktop\Оучение\Знакомство с языками програмированием\dz-Seminar 2\zadanie_10\obj\Debug\net6.0\zadanie_10.AssemblyInfoInputs.cache
+C:\Users\Ynef4\Desktop\Оучение\Знакомство с языками програмированием\dz-Seminar 2\zadanie_10\obj\Debug\net6.0\zadanie_10.AssemblyInfo.cs
+C:\Users\Ynef4\Desktop\Оучение\Знакомство с языками програмированием\dz-Seminar 2\zadanie_10\obj\Debug\net6.0\zadanie_10.csproj.CoreCompileInputs.cache
+C:\Users\Ynef4\Desktop\Оучение\Знакомство с языками програмированием\dz-Seminar 2\zadanie_10\obj\Debug\net6.0\zadanie_10.dll
+C:\Users\Ynef4\Desktop\Оучение\Знакомство с языками програмированием\dz-Seminar 2\zadanie_10\obj\Debug\net6.0\refint\zadanie_10.dll
+C:\Users\Ynef4\Desktop\Оучение\Знакомство с языками програмированием\dz-Seminar 2\zadanie_10\obj\Debug\net6.0\zadanie_10.pdb
+C:\Users\Ynef4\Desktop\Оучение\Знакомство с языками програмированием\dz-Seminar 2\zadanie_10\obj\Debug\net6.0\zadanie_10.genruntimeconfig.cache
+C:\Users\Ynef4\Desktop\Оучение\Знакомство с языками програмированием\dz-Seminar 2\zadanie_10\obj\Debug\net6.0\ref\zadanie_10.dll
